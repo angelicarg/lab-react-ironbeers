@@ -1,5 +1,5 @@
 function Beer() {
-  return <div>a</div>;
+  return <div></div>;
 }
 
 export default Beer;
